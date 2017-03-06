@@ -88,12 +88,3 @@ class Robot
         }
     }
 }
-
-
-
-/**
- * Class RobotTwo
- */
-class RobotTwo extends Robot
-{
-}
