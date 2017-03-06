@@ -1,5 +1,7 @@
 <?php
 
+namespace App;
+
 /**
  * Class Robot
  */
@@ -87,12 +89,7 @@ class Robot
     }
 }
 
-/**
- * Class RobotOne
- */
-class RobotOne extends Robot
-{
-}
+
 
 /**
  * Class RobotTwo
